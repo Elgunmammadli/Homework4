@@ -35,6 +35,7 @@ namespace Task2
                 if (state == false)
                 {
                     if ((eded / 100 == eded % 10) && eded >= 100 && eded < 1000) // 3 reqemli uchun
+                        // ikinci usulla yazmisham .polindrom ededin tapilmasi
                     {
                         condition = true;
                         if (condition == true)
@@ -75,7 +76,9 @@ namespace Task2
                     }
                 }
             }
-     */
+               */
+
+
             //  Console.WriteLine("3cu shert");
 
             /*
