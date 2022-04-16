@@ -20,16 +20,16 @@ namespace Task6
             {
 
                 double quvvet = Math.Pow(10, count);
-
+                //465784  4684
                 int remain = a % 10;
                 if (!(remain == 5 || remain == 7))
                 {
-                    state = true;
-                    if (state == true)
-                    {
+                   // state = true;
+                    //if (state == true)
+                    //{
                         b += (quvvet * remain);
                         count++;
-                    }
+                    //}
 
                 }
 
